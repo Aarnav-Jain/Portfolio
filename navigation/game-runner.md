@@ -14,7 +14,7 @@ Run the basic desert adventure game. Use WASD or arrow keys to move Chill Guy ar
 {% endcapture %}
 
 {% capture code1 %}
-
+```javascript
 import GameEnvBackground from '/assets/js/BetterGameEngine/essentials/GameEnvBackground.js';
 import Player from '/assets/js/BetterGameEngine/gameObjects/Player.js';
 import Npc from '/assets/js/BetterGameEngine/gameObjects/Npc.js';
