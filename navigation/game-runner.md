@@ -14,17 +14,17 @@ Run the basic desert adventure game. Use WASD or arrow keys to move Chill Guy ar
 {% endcapture %}
 
 {% capture code1 %}
-```javascript
+import GameControl from '/assets/js/BetterGameEngine/GameControl.js';
 import GameEnvBackground from '/assets/js/BetterGameEngine/essentials/GameEnvBackground.js';
 import Player from '/assets/js/BetterGameEngine/gameObjects/Player.js';
 import Npc from '/assets/js/BetterGameEngine/gameObjects/Npc.js';
 import Barrier from '/assets/js/adventureGame/Barrier.js';
 
 class CustomLevel {
-            constructor(gameEnv) {
-            const path = gameEnv.path;
-            const width = gameEnv.innerWidth;
-            const height = gameEnv.innerHeight;
+    constructor(gameEnv) {
+        const path = gameEnv.path;
+        const width = gameEnv.innerWidth;
+        const height = gameEnv.innerHeight;
         const bgData = {
             name: 'custom_bg',
             src: path + "/images/gamify/desert.png",
@@ -67,15 +67,15 @@ class CustomLevel {
         };
 
         this.classes = [
-                  { class: GameEnvBackground, data: bgData },
-      { class: Player, data: playerData },
-      { class: Npc, data: npcData1 }
+            { class: GameEnvBackground, data: bgData },
+            { class: Player, data: playerData },
+            { class: Npc, data: npcData1 }
         ];
     }
 }
 
+export { GameControl };
 export const gameLevelClasses = [CustomLevel];
-
 {% endcapture %}
 
 {% include game-runner.html
