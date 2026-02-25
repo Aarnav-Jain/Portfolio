@@ -7,23 +7,9 @@ show_reading_time: false
 
 Hi! My name is Aarnav Jain
 
- <a href="{{site.baseurl}}/about" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            About
-        </div>
-    </a>
+ 
 
- <a href="{{site.baseurl}}/js/hw" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Hw
-        </div>
-    </a>
 
-<a href="{{site.baseurl}}/accomplishments" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            accomplishments
-        </div>
-    </a>
 
 
 
@@ -62,6 +48,23 @@ Hi! My name is Aarnav Jain
     <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
         <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Turtle
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/about" style="text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            About
+        </div>
+    </a>
+
+ <a href="{{site.baseurl}}/js/hw" style="text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Hw
+        </div>
+    </a>
+
+<a href="{{site.baseurl}}/accomplishments" style="text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            accomplishments
         </div>
     </a>
 </div>
