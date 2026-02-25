@@ -10,7 +10,7 @@ comments: true
 
 For me getting my tools set up was not an easy task. I remember trying all storts of commands in terminal and nothing was working. I was also falling behind in class because I was sick with the flu. When I came back I was very confused on what to do so I asked my friends and my parents for help. I spent many hours debugging my virtual environment and was finally able to get it to work. Something I learned from this is that success requires hardwork and you will never get anything done if you are always working individually
 
-My issue - https://github.com/Aarnav-Jain/student/issues/1
+[My issue](https://github.com/Aarnav-Jain/student/issues/1)
 
 ## Part 2 - game hacks
 
