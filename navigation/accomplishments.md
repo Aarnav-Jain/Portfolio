@@ -27,7 +27,7 @@ This is where I struggled the most. Making a game from game builder was a very c
 ## Accomplishments
 
 - I made and teached the lesson for classes and methods
-https://aarnav-jain.github.io/Portfolio/js/classes
+[lesson](https://aarnav-jain.github.io/Portfolio/js/classes)
 
 - I added an npc which was a pot of gold to our level. (level 2)
 
@@ -37,5 +37,7 @@ https://aarnav-jain.github.io/Portfolio/js/classes
 
 - I made improvements to caluclator and made our group homepage.
 https://deanf-school.github.io/groupstudent/
+
+<img src="https://github.com/user-attachments/assets/58f4cb4d-74a7-4b8b-8b52-d44a54c3b911" alt="Image 1">
 
 
