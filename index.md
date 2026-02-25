@@ -7,8 +7,25 @@ show_reading_time: false
 
 Hi! My name is Aarnav Jain
 
-[about](https://aarnav-jain.github.io/Portfolio/about/)
-[hw](https://aarnav-jain.github.io/Portfolio/js/hw)
+ <a href="{{site.baseurl}}/about" style="text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            About
+        </div>
+    </a>
+
+ <a href="{{site.baseurl}}/js/hw" style="text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Hw
+        </div>
+    </a>
+
+<a href="{{site.baseurl}}/accomplishments" style="text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            accomplishments
+        </div>
+    </a>
+
+
 
 
 ### Development Environment
