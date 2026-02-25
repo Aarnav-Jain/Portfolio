@@ -38,6 +38,8 @@ This is where I struggled the most. Making a game from game builder was a very c
 - I made improvements to caluclator and made our group homepage.
 [games](https://deanf-school.github.io/groupstudent/)
 
-<img src="https://github.com/user-attachments/assets/58f4cb4d-74a7-4b8b-8b52-d44a54c3b911" alt="Image 1">
+
 
  - [about me](https://aarnav-jain.github.io/Portfolio/about/)
+
+ <img width="332" height="684" alt="Image" src="https://github.com/user-attachments/assets/f22e8170-2c86-47f5-b600-180c8a162779" />
