@@ -5,7 +5,11 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Your Full Name]
+Hi! My name is Aarnav Jain
+
+[about](https://aarnav-jain.github.io/Portfolio/about/)
+[hw](https://aarnav-jain.github.io/Portfolio/js/hw)
+
 
 ### Development Environment
 
