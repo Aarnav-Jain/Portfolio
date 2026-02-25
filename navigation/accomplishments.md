@@ -36,8 +36,8 @@ This is where I struggled the most. Making a game from game builder was a very c
 - I helped test the lesson for math.
 
 - I made improvements to caluclator and made our group homepage.
-https://deanf-school.github.io/groupstudent/
+[games](https://deanf-school.github.io/groupstudent/)
 
 <img src="https://github.com/user-attachments/assets/58f4cb4d-74a7-4b8b-8b52-d44a54c3b911" alt="Image 1">
 
-
+ - [about me](https://aarnav-jain.github.io/Portfolio/about/)
